@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "Rituja",
+      "lastName": "Magar",
+      "email": "rituja@zitics.com",
+      "mobile": 9921194811,
+      "city": "Aurangabad",
+      "id": "2021-03-02T05:56:03.896Z"
+    },
+    {
+      "firstName": "Sameera",
+      "lastName": "Magar",
+      "email": "rituja@zitics.com",
+      "mobile": 9921194811,
+      "city": "Aurangabad",
+      "id": "2021-03-02T05:56:15.210Z"
+    },
+    {
+      "firstName": "Alok",
+      "lastName": "Magar",
+      "email": "rituja@zitics.com",
+      "mobile": 8673946824,
+      "city": "Aurangabad",
+      "id": "2021-03-02T05:56:35.411Z"
+    }
+  ]
+}
